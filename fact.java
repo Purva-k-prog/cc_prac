@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class FactorialExample {
+public class fact {
 
     // Function to calculate factorial
     static int factorial(int n) {
